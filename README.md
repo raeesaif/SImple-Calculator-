@@ -1,4 +1,4 @@
 # SImple-Calculator-
-This my first repository 
+This is  my first repository 
 <br>
 Author Raees Ahmed 
